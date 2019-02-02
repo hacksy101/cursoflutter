@@ -1,6 +1,6 @@
-# mi_primera_app
+# animations
 
-Mi primera App
+A new Flutter application.
 
 ## Getting Started
 

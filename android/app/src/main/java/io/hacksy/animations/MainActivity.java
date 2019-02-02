@@ -1,4 +1,4 @@
-package io.hacksy.miprimeraapp;
+package io.hacksy.animations;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
